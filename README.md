@@ -13,9 +13,9 @@ Here are some ideas to get you started: -->
 - :art: Check out my UI/UX portfolio <a href="https://dribbble.com/ac5865">@Dribble</a><br>
 - 🤔 I’m looking to collaborate on Web Development, UI/UX and App Development.<br>
 - 📫 Reach out <a href="mailto:anushkachoudhary.ac@gmail.com">anushkachoudhary.ac@gmail.com</a><br><br>
-
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=ac5865&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
+-->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ac5865&layout=compact)](https://github.com/ac586/github-readme-stats)
 
 
